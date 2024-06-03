@@ -27,7 +27,7 @@ A Python script to download YouTube videos and playlists with the highest resolu
 
 2. Navigate to the project directory:
    ```bash
-   cd youtube-video-downloader
+   cd youtube-downloader
    ```
 
 3. Install the required dependencies:
