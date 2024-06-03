@@ -22,7 +22,7 @@ A Python script to download YouTube videos and playlists with the highest resolu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/llegomark/youtube-video-downloader.git
+   git clone https://github.com/llegomark/youtube-downloader.git
    ```
 
 2. Navigate to the project directory:
